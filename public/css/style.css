@@ -50,3 +50,9 @@ img {
     margin: 2rem;
     font-size: 2rem;
 }
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
